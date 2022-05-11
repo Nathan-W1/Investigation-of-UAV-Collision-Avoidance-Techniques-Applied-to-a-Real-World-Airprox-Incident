@@ -1,0 +1,11 @@
+Silk_District_Building_A1.txt	37.3
+Silk_District_Building_A2.txt	81.3
+Silk_District_Building_A3.txt	31.6
+Silk_District_Building_B1.txt	31.8
+Silk_District_Building_B2.txt	38.2
+Silk_District_Building_B3.txt	31.9
+Silk_District_Building_B4.txt	38.2
+Silk_District_Building_C1_H.txt	97.5
+Silk_District_Building_C1_L.txt	94.2
+Silk_District_Building_C2.txt	37.3
+Silk_District_Building_C3.txt	30.6
